@@ -19,3 +19,9 @@ Pulsar el botón "Download Results"
 
 Cambiar el nombre del archivo descargado a artemis_vectors.csv
 
+# Requisitos
+* Instalar python
+* Instalar biblioteca numpy https://numpy.org/install/
+* Instalar biblioteca matplotlib https://matplotlib.org/stable/install/index.html
+* Descargar archivo de posición en el tiempo como se indica más arriba.
+
